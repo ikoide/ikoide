@@ -4,5 +4,5 @@
 ![protonmail](https://img.shields.io/badge/-ian.koide@protonmail.com-313131?style=flat-square&labelColor=313131&logo=protonmail&logoColor=white&color=313131)  
 
 - Passionate about **computational economics**.
-- Use `.py`, `.html`, `.css`, `.java` on the daily.
-- Working on [Minance](https://github.com/minancenet/web)!
+- Use `.py`, `.html`, `.sass`, `.java`, `.js` on the daily.
+- Currently working on [Feo.to](https://feo.to)!
