@@ -6,4 +6,4 @@
 
 - Passionate about **computational economics**.
 - Use `.py`, `.html`, `.sass`, `.java`, `.js` on the daily.
-- Currently working on [Feo.to](https://feo.to)!
+- Currently working on [Crow AI](https://github.com/ikoide/crow) & [Feo.to](https://feo.to)!
