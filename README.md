@@ -1,4 +1,4 @@
-<img src="lizard.gif" width=30% align=left></img>
+<img src="lizard.gif" width=35% align=left></img>
 
 ![protonmail](https://img.shields.io/badge/-ian.koide@proton.me-313131?style=flat-square&labelColor=313131&logo=protonmail&logoColor=white&color=313131)  
 ![matrix](https://img.shields.io/badge/-@ian:sewer.fail-313131?style=flat-square&labelColor=313131&logo=matrix&logoColor=white&color=313131)  
