@@ -1,7 +1,7 @@
 <img src="fox.gif" width=25% align=left></img>
 
-![discord](https://img.shields.io/badge/-sewer%232930-313131?style=flat-square&labelColor=313131&logo=discord&logoColor=white&color=313131)  
-![protonmail](https://img.shields.io/badge/-ian.koide@protonmail.com-313131?style=flat-square&labelColor=313131&logo=protonmail&logoColor=white&color=313131)  
+![protonmail](https://img.shields.io/badge/-ian.koide@proton.me-313131?style=flat-square&labelColor=313131&logo=protonmail&logoColor=white&color=313131)  
+![matrix](https://img.shields.io/badge/-@ian:sewer.fail-313131?style=flat-square&labelColor=313131&logo=matrix&logoColor=white&color=313131)  
 ![jabber](https://img.shields.io/badge/-ian.koide@jabber.calyxinstitute.org-313131?style=flat-square&labelColor=313131&logo=xmpp&logoColor=white&color=313131)  
 
 - Passionate about **computational economics**.
