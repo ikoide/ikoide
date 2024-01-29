@@ -6,4 +6,4 @@
 
 - 💱 Passionate about **computational economics & big data**.
 - 🔧 Use `.py`, `.html`, `.sass`, `.java`, `.js` on the daily.
-- 👷 Currently working on [sewer.fail](https://sewer.fail)!
+- 👷 Currently working on [The Street](https://github.com/ikoide/thestreet)!
