@@ -4,4 +4,4 @@
 
 - 🔐 Passionate about **computational economics**.
 - 🔧 Use `.py`, `.html`, `.sass`, `.java`, `.js` on the daily.
-- 👷 Currently working on [My Web Development Business!](https://github.com/ikoide/thestreet)!
+- 👷 Currently working as a full-time student and on [My Web Development Business!](https://greenviper.io)!
